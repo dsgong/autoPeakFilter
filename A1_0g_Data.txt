@@ -1,5 +1,5 @@
 * This data was exported from the Dayton Audio Test System: DATS
-*
+* Voice Coil: EX32VBDS-4
 * Piston Diameter = 0 mm
 * f(s)= 97.57 Hz
 * R(e)= 3.628 Ohms
